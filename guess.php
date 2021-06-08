@@ -7,6 +7,7 @@
 
 <body>
   <h1>Welcome to my guessing game!</h1>
+  <p>Working on new changes...</p>
   <p>
     <?php
       if(!isset($_GET['guess'])){
